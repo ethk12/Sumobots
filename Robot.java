@@ -14,7 +14,7 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
 public class Robot extends TimedRobot {
  
-
+  private int x = 10;
 
   @Override
   public void robotInit() {
